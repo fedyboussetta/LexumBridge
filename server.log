@@ -1,0 +1,94 @@
+
+> lexum-bridge@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 1593ms
+ ○ Compiling / ...
+ ✓ Compiled / in 7.4s
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 8298ms
+ ⚠ Cross origin request detected from lexum-bridge.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET / 200 in 313ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 628ms
+ GET /favicon.ico 200 in 985ms
+ GET / 200 in 344ms
+ GET / 200 in 285ms
+ GET / 200 in 264ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 275ms
+ GET / 200 in 301ms
+ GET / 200 in 282ms
+ GET /favicon.ico 200 in 290ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 311ms
+ ✓ Compiled in 1298ms
+ ✓ Compiled / in 73ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 438ms
+ GET / 200 in 732ms
+ GET / 200 in 1039ms
+ GET / 200 in 1029ms
+ GET /favicon.ico 200 in 277ms
+ GET /favicon.ico 200 in 287ms
+ GET / 200 in 264ms
+ GET / 200 in 306ms
+ GET /?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAEeO9I7AeocxVsut0L38FLCY1vAclGc7fJM2cGYUNMCnPFrLe9N8m2HIjX-HZk_aem_WFera4c2oHt6ECKYtx9pKw 200 in 530ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 672ms
+ GET /_next/webpack-hmr 404 in 880ms
+ GET / 200 in 241ms
+ GET / 200 in 286ms
+ HEAD / 200 in 295ms
+ GET /robots.txt 404 in 359ms
+ GET / 200 in 240ms
+ GET / 200 in 208ms
+ GET / 200 in 292ms
+ GET / 200 in 447ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 334ms
+ GET / 200 in 413ms
+ GET / 200 in 1524ms
+ GET / 200 in 1486ms
+ GET / 200 in 1565ms
+ GET / 200 in 1473ms
+ GET / 200 in 1469ms
+ GET / 200 in 1399ms
+ GET / 200 in 509ms
+ GET / 200 in 430ms
+ GET / 200 in 434ms
+ GET / 200 in 217ms
+ GET / 200 in 246ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 268ms
+ GET / 200 in 270ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 285ms
+ GET / 200 in 501ms
+ GET / 200 in 362ms
+ ✓ Compiled in 264ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 770ms
+ ✓ Compiled in 252ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 814ms
+ ✓ Compiled in 358ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 748ms
+ GET / 200 in 291ms
+ ✓ Compiled in 283ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 725ms
+ ✓ Compiled in 255ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 723ms
+ ✓ Compiled in 249ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 785ms
+ ✓ Compiled in 354ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 655ms
+ GET / 200 in 276ms
+ GET / 200 in 457ms
+ GET / 200 in 571ms
